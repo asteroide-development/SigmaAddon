@@ -9,7 +9,7 @@ import spiggstm.sigmaddon.Addon;
 
 public class CreativeFlightModule extends Module {
     public CreativeFlightModule() {
-        super(Addon.CATEGORY, "creative-flight", "Allows you to fly like in creative mode");
+        super(Addon.CATEGORY, "creative-flight", "Allows you to fly like you're in creative mode");
     }
 
     @Override
