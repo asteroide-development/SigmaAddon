@@ -2,6 +2,7 @@ package spiggstm.sigmaddon;
 
 import spiggstm.sigmaddon.commands.CommandExample;
 import spiggstm.sigmaddon.hud.HudExample;
+import spiggstm.sigmaddon.modules.CreativeFlightModule;
 import spiggstm.sigmaddon.modules.ModuleExample;
 import com.mojang.logging.LogUtils;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
@@ -23,6 +24,7 @@ public class Addon extends MeteorAddon {
 
         // Modules
         Modules.get().add(new ModuleExample());
+        Modules.get().add(new CreativeFlightModule());
 
         // Commands
         Commands.add(new CommandExample());
