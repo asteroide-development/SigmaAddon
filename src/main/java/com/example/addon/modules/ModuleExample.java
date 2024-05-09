@@ -14,6 +14,6 @@ public class ModuleExample extends Module {
     }
     @EventHandler
     private void onTick(TickEvent.Pre event){
-        info("Sigma");
+        info("Sigma"); // I hate niggers
     }
 }
