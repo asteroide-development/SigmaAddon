@@ -1,6 +1,6 @@
-package com.example.addon.hud;
+package spiggstm.sigmaddon.hud;
 
-import com.example.addon.Addon;
+import spiggstm.sigmaddon.Addon;
 import meteordevelopment.meteorclient.systems.hud.HudElement;
 import meteordevelopment.meteorclient.systems.hud.HudElementInfo;
 import meteordevelopment.meteorclient.systems.hud.HudRenderer;

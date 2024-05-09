@@ -1,6 +1,6 @@
-package com.example.addon.modules;
+package spiggstm.sigmaddon.modules;
 
-import com.example.addon.Addon;
+import spiggstm.sigmaddon.Addon;
 import meteordevelopment.meteorclient.systems.modules.Module;
 
 public class ModuleExample extends Module {

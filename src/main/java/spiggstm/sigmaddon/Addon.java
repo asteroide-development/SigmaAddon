@@ -1,8 +1,8 @@
-package com.example.addon;
+package spiggstm.sigmaddon;
 
-import com.example.addon.commands.CommandExample;
-import com.example.addon.hud.HudExample;
-import com.example.addon.modules.ModuleExample;
+import spiggstm.sigmaddon.commands.CommandExample;
+import spiggstm.sigmaddon.hud.HudExample;
+import spiggstm.sigmaddon.modules.ModuleExample;
 import com.mojang.logging.LogUtils;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.commands.Commands;
