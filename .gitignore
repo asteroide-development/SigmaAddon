@@ -1,0 +1,41 @@
+# gradle
+
+.gradle/
+build/classes
+build/devlibs
+build/generated
+build/loom-cache
+build/resources
+build/tmp
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# my shit
+TODO.txt
